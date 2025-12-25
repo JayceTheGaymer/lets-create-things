@@ -1,1 +1,11 @@
-
+- Added Create: Compatible Storage.
+- Added Default Options.
+- Added Canary.
+- Added CreateBetterFPS.
+- Added Colorwheel.
+- Added Colorwheel Patcher.
+- Added BadOptimizations.
+- Added Modpack Update Checker.
+- Removed Iris & Oculus Flywheel Compat (Replaced with Colorwheel).
+- Removed Chunky.
+- Updated BSL Shaders.
